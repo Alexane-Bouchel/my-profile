@@ -1,0 +1,126 @@
+
+img		{
+	height:400px;
+	width: 500px;
+	box-shadow: 10px 8px 20px orange;
+}
+
+h1, h2, h3, h5{ 
+	text-align: center;
+	font-family: Andale Mono, monospace;
+	color: orange;
+}
+h1{
+	font-size: 50px;
+	letter-spacing: 10px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3, h5{
+	font-size: 40px;
+}
+
+h4{
+	font-size: 20px;
+	color: grey;
+}
+
+body	{
+	text-align: center;
+	background: orange;
+	font-family: Courier New, monospace;
+}
+
+p{
+	margin: 20px;
+	padding: 20px;
+}
+
+.box-page{
+	margin: 100px;
+	padding: 70px;
+	border: solid orange 3px;
+	background: white;
+
+}
+
+.image1{
+	margin: 20px;
+	padding: 20px;
+}
+
+.banner-picture{
+	height: 300px;
+}
+
+.card-history{
+	margin: 100px;
+	padding: 70px;
+	border: solid orange 3px;
+	background: white;
+}
+
+.team{
+	height:300px;
+	width: 300px;
+}
+
+.card-image{
+	margin: 100px;
+	padding: 70px;
+	border: solid orange 3px;
+	background: white;
+}
+
+.card-contact{
+	margin: 100px;
+	padding: 70px;
+	border: solid orange 3px;
+	background: white;
+}
+
+}
+.logo-tel{
+	text-align: center;
+	height: 50px;
+	width: 50px;
+
+}
+
+ img{
+	height: 300px;
+}
+
+.btn1{
+	border: solid grey 3px;
+	margin: 10px;
+	padding: 10px;
+	background: orange;
+	color: white;
+}
+
+.btn2{
+	border: solid grey 3px;
+	margin: 10px;
+	padding: 10px;
+	background: orange;
+	color: white;
+}
+
+.card-cloture{
+	border: solid grey 3px;
+	background: grey;
+	color: black;
+	text-align: center;
+}
+
+.fa-facebook{
+	border: solid grey 3px;
+	background: grey;
+	text-align: center;
+	background: black;
+    color: white;
+}
